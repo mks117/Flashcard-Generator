@@ -1,0 +1,17 @@
+[
+    {
+        "answer": "Adam West",
+        "question": "Who was the best Batman actor?",
+        "statement": "The correct answer is Adam West."
+    },
+    {
+        "answer": "JavaScript",
+        "question": "What is the best programming language for web dev?",
+        "statement": "JavaScript is the best web dev language."
+    },
+    {
+        "answer": "Kyle",
+        "question": "Who is the best TA?",
+        "statement": "Kyle is the best TA."
+    }
+]
